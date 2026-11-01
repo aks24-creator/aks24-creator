@@ -1,5 +1,31 @@
 
-<img width="2290" height="2268" alt="image" src="https://github.com/user-attachments/assets/8baee91e-ea83-44fe-a4d9-cbd6d7072930" />
+# Hi, I'm Abhishek 👋 <br />
+Senior Marine & Offshore Structural Engineer at Lloyd's Register.
+
+## Currently learning:<br />
+Python<br />
+Data Analytics<br />
+Machine Learning<br />
+Generative AI<br />
+Digital Twins<br />
+Maritime AI Portfolio<br />
+Current Projects<br />
+Maritime AI Journey<br />
+Marine Load Calculator<br />
+Fatigue Analysis Dashboard<br />
+Hull Corrosion Predictor<br />
+<br />
+## Areas of Expertise<br />
+Offshore Structures<br />
+FPSO Engineering<br />
+Fatigue Assessment<br />
+Hydrodynamics<br />
+Classification Rules<br />
+Asset Integrity<br />
+<br />
+## Current Goal<br />
+Become a Maritime AI & Digital Engineering Specialist by combining offshore engineering expertise with AI and data analytics.
+
 
 <!--
 **aks24-creator/aks24-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
