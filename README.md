@@ -1,4 +1,5 @@
-## Hi there 👋
+
+<img width="2290" height="2268" alt="image" src="https://github.com/user-attachments/assets/8baee91e-ea83-44fe-a4d9-cbd6d7072930" />
 
 <!--
 **aks24-creator/aks24-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
